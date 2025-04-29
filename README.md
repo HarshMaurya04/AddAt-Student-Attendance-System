@@ -1,1 +1,1 @@
-# AddAt-Student-Attendance-System
+# AddAt - Student Attendance Management System
