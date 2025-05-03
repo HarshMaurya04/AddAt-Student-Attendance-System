@@ -18,6 +18,20 @@
 - Lucide React – Icon library
 - React Day Picker – Date selection UI
 
+**Backend & Database**
+
+- Next.js API Routes – Server-side logic
+- Drizzle ORM – Type-safe SQL queries
+- MySQL – Relational database
+- Drizzle Kit – Schema migration and studio
+
+**Auth & Utils**
+
+- Kinde Auth – Authentication & user management
+- Axios – HTTP requests
+- Moment.js / date-fns – Date formatting and manipulation
+- dotenv – Environment variable management
+
 # # Screenshots
 
 ![Image](https://github.com/user-attachments/assets/5edb092b-f12a-4e07-a8b8-feb37010a3d5)
