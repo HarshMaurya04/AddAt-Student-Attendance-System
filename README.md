@@ -1,36 +1,36 @@
 # AddAt - Student Attendance Management System
 
-# Overview
+## Overview
 
 **AddAt** is a modern, full-stack Student Attendance Management System designed to simplify attendance tracking for educational institutions. The platform enables admins or faculty to add students branch-wise, mark daily attendance, view attendance analytics, and filter records by branch or month. A dashboard provides real-time visualizations, offering quick insights into attendance statistics using charts.
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Frontend**
 
-- React 18 – UI development
-- Next.js 15 – Server-side rendering and routing
-- Tailwind CSS 4 – Utility-first CSS framework
-- Radix UI – Accessible, unstyled components
-- Recharts – Data visualization (Bar and Pie charts)
-- React Hook Form – Form management
-- AG Grid – High-performance data grid
-- Lucide React – Icon library
-- React Day Picker – Date selection UI
+- **React 18** – UI development
+- **Next.js 15** – Server-side rendering and routing
+- **Tailwind CSS 4** – Utility-first CSS framework
+- **Radix UI** – Accessible, unstyled components
+- **Recharts** – Data visualization (Bar and Pie charts)
+- **React Hook Form** – Form management
+- **AG Grid** – High-performance data grid
+- **Lucide React** – Icon library
+- **React Day Picker** – Date selection UI
 
 **Backend & Database**
 
-- Next.js API Routes – Server-side logic
-- Drizzle ORM – Type-safe SQL queries
-- MySQL – Relational database
-- Drizzle Kit – Schema migration and studio
+- **Next.js API Routes** – Server-side logic
+- **Drizzle ORM** – Type-safe SQL queries
+- **MySQL** – Relational database
+- **Drizzle Kit** – Schema migration and studio
 
 **Auth & Utils**
 
-- Kinde Auth – Authentication & user management
-- Axios – HTTP requests
-- Moment.js / date-fns – Date formatting and manipulation
-- dotenv – Environment variable management
+- **Kinde Auth** – Authentication & user management
+- **Axios** – HTTP requests
+- **Moment.js / date-fns** – Date formatting and manipulation
+- **dotenv** – Environment variable management
 
 # # Screenshots
 
