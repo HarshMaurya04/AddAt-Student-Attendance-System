@@ -15,10 +15,10 @@
 🔎 Filter Attendance by: Branch, Month 
 
 📊 Dashboard Overview with:
-    -  Total number of students
-    -  Total present and absent percentages
-    -  Bar Chart – Day-wise attendance stats
-    -  Pie Chart – Present vs Absent distribution
+Total number of students
+Total present and absent percentages
+Bar Chart – Day-wise attendance stats
+Pie Chart – Present vs Absent distribution
 
 
 ## 🧰 Tech Stack
@@ -49,7 +49,7 @@
 - **Moment.js / date-fns** – Date formatting and manipulation
 - **dotenv** – Environment variable management
 
-# # Screenshots
+## # Screenshots
 
 ![Image](https://github.com/user-attachments/assets/5edb092b-f12a-4e07-a8b8-feb37010a3d5)
 
