@@ -1,6 +1,6 @@
 # AddAt - Student Attendance Management System
 
-# Screenshots
+# # Screenshots
 
 ![Image](https://github.com/user-attachments/assets/5edb092b-f12a-4e07-a8b8-feb37010a3d5)
 
