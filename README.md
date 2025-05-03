@@ -4,6 +4,19 @@
 
 **AddAt** is a modern, full-stack Student Attendance Management System designed to simplify attendance tracking for educational institutions. The platform enables admins or faculty to add students branch-wise, mark daily attendance, view attendance analytics, and filter records by branch or month. A dashboard provides real-time visualizations, offering quick insights into attendance statistics using charts.
 
+## 🚀 Features
+
+🔐 Authentication via Kinde
+👨‍🎓 Add Students branch-wise
+📅 Mark Attendance per student by date
+🔎 Filter Attendance by: Branch, Month
+📊 Dashboard Overview with:
+     - Total number of students
+     - Total present and absent percentages
+     - Bar Chart – Day-wise attendance stats
+     - Pie Chart – Present vs Absent distribution
+
+
 ## 🧰 Tech Stack
 
 **Frontend**
