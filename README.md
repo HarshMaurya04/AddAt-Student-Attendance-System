@@ -7,14 +7,18 @@
 ## 🚀 Features
 
 🔐 Authentication via Kinde 
-👨‍🎓 Add Students branch-wise 
+
+➕ Add Students branch-wise
+
 📅 Mark Attendance per student by date 
+
 🔎 Filter Attendance by: Branch, Month 
+
 📊 Dashboard Overview with:
-  - Total number of students
-  - Total present and absent percentages
-  - Bar Chart – Day-wise attendance stats
-  - Pie Chart – Present vs Absent distribution
+  -  Total number of students
+  -  Total present and absent percentages
+  -  Bar Chart – Day-wise attendance stats
+  -  Pie Chart – Present vs Absent distribution
 
 
 ## 🧰 Tech Stack
